@@ -1,0 +1,6 @@
+1,Virat Kohli
+2,Kenn Williamson
+2,Joe Root
+3,Rohit Sharma
+4,Quinton De Kock
+5,Jason Ray

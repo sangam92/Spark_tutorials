@@ -1,0 +1,4 @@
+1,Jasprit Bumrah
+2,Hasan Ali
+3,Kuldeep Yadav
+4,Trent Boult
