@@ -21,3 +21,8 @@ df2.show()
 ##Multiple aggregates at a time 
 df3= df.groupBy("State").agg(sum("Count"),avg("Count"),min("Count"),max("Count"))
 df3.show()
+
+
+##using filter on aggregate data
+df4=df.groupBy("State").agg(sum("Count")).where(col("sum(Count)") == 546812).select("State","sum(Count)")
+df4.show()
