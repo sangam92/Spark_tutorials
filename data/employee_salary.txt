@@ -1,0 +1,7 @@
+Name,Salary,Age,dept
+san,12345,27,IT
+def,90908,34,admin
+fgh,09098,89,admin
+qwe,56432,43,IT
+virat,177777,36,Sports
+Rohit,166666,38,Sports
